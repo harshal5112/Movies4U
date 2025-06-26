@@ -27,7 +27,7 @@
 - Jetpack Compose
 - Retrofit
 - Coil (for images)
-- Firebase / Room DB (if used)
+- Firebase 
 - MVVM Architecture
 
 ---
