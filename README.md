@@ -17,7 +17,7 @@
 
 | Home Screen | Details Screen |
 |-------------|----------------|
-| ![home](https://github.com/user-attachments/assets/6294c9b0-2f03-4b80-a634-3f07abb37da8) | ![Details](screenshots/details.png) |
+| ![Details](screenshots/details.png) | ![Details](screenshots/details.png) |
 
 ---
 
