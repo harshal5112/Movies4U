@@ -17,7 +17,7 @@
 
 | Home Screen | Details Screen |
 |-------------|----------------|
-| <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e2455b23-8524-4292-83fc-89badb0c7b43" /> | <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/f471afe0-5db3-4107-bad4-208fa6e24f70" /> <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b35083cb-f8da-4f3c-bf5b-c7276347d02f" /> |
+| <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e2455b23-8524-4292-83fc-89badb0c7b43" /> | <img width="576" height="1280" alt="Image" src="https://github.com/user-attachments/assets/f471afe0-5db3-4107-bad4-208fa6e24f70" />  |
 
 ---
 
